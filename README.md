@@ -1,1 +1,1 @@
-# shottergame
+# shottergamekaj hoinai
